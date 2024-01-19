@@ -1,0 +1,24 @@
+.HeroText{
+    display: flex;
+    flex-direction: column;
+    max-width: 1280px;
+    margin: 0 auto;
+
+    
+}
+h1{
+    max-width: 595px;
+    max-height: 306px;
+    font-size: 100px;
+    
+}
+p{
+    max-width: 404px;
+    max-height: 91px;
+    
+}
+.cat{
+    background-color: white;
+    color: grey;
+    border: 1px solid black;
+}

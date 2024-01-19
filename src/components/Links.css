@@ -1,0 +1,17 @@
+ul{
+    display: flex;
+    gap: 24px;
+    
+    justify-content: space-evenly;
+
+}
+li{
+    list-style-type: none;
+    font-size: large;
+    
+    font-weight: 600;
+}
+.Link{
+    width: 333px;
+    height: 24px;
+}

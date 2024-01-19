@@ -1,0 +1,13 @@
+button{
+    all: unset;
+    
+    background-color: red;
+    color: white;
+    max-width: 100px;
+    max-height: 38px;
+    padding:6px 16px;
+    margin-right: 10px;
+    
+    border: none;
+    font-weight: 800;
+}
